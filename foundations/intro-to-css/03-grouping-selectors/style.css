@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+#p1
+{
+    background-color: black;
+    color: white;
+}
+
+#p2
+{
+    background-color: yellow;
+}
+
+.font
+{
+  font-size: 28px;  
+  font-family: Helvetica, Times, sans-serif;
+}
